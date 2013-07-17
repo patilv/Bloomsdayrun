@@ -1,0 +1,100 @@
+Position	Runner	Time
+1	Mike Hogue	00:57:35
+2	Brian J Kenna	00:59:00
+3	Richard K Cadwallader	01:00:00
+4	Don Kardong	01:00:36
+5	Rick J Barbero	01:01:30
+6	Douglas Clark	01:02:26
+7	Rick S Serns	01:04:20
+8	Michael P Fleming	01:06:05
+9	Linnwood D Sampson	01:09:02
+10	John R Day	01:09:28
+11	Sylvia C Quinn	01:09:51
+12	Dennis L Jr Doyle	01:10:02
+13	Roger Risinger	01:10:12
+14	Kris A Olson-Wood	01:11:11
+15	Jack K Williams	01:11:26
+16	Keith R Lalonde	01:11:50
+17	Ted R Kirpes	01:12:13
+18	Roger L Aldrich	01:14:10
+19	William Peters	01:15:29
+20	Maury L Ray	01:16:07
+21	James D Edwards	01:16:40
+22	Dan Gillespie	01:16:47
+23	Bernie A Barnes	01:17:59
+24	Terry R Whitten	01:18:56
+25	Paul M Chapman	01:19:08
+26	Bruce M Thornton	01:25:32
+27	Joel W Palmer	01:26:03
+28	Gregory A Wright	01:26:17
+29	Phil L Trautman	01:27:54
+30	Bob Thornton	01:28:41
+31	Ron P Douglas	01:29:39
+32	Bobby D Felton	01:30:23
+33	Bob D Barbero	01:30:32
+34	Shelley J Carlson	01:30:35
+35	Thomas F Leonard	01:31:35
+36	Jeffery M Snow	01:32:15
+37	Peter R Thompson	01:32:34
+38	Lawrence M Gorton	01:33:53
+39	Steve W Rusch	01:35:03
+40	Dianne D Bruhn	01:37:11
+41	Ken A Wendt	01:38:46
+42	Joseph P Mcmanus	01:38:58
+43	Jack L Charbonneau	01:39:18
+44	Michael R Arnold	01:39:55
+45	Sally A Rennebohm-Lutz	01:40:40
+46	Charles F Bean	01:41:49
+47	Marji J Arnold	01:42:07
+48	Martin Kittredge	01:42:09
+49	Mary H Fagan	01:42:12
+50	Max Bischoff	01:46:46
+51	Wayne R Wilson	01:47:02
+52	Rockwell Mcarthur	01:47:19
+53	Michael K Tobey	01:48:12
+54	Nick J Savka	01:48:52
+55	Gary G Berg	01:49:48
+56	Rich Landers	01:50:27
+57	Dennis O Mcmullen	01:50:32
+58	Patrick H Quinn	01:50:54
+59	Richard O Baker	01:51:26
+60	Thornton C Murphy	01:51:38
+61	Lawrence N Peterson	01:52:21
+62	Stephen E Vigus	01:54:38
+63	Bruce H Mcdavis	01:56:00
+64	Ken J Hill	01:56:18
+65	Jack M Snead	01:56:19
+66	John B Blessent	01:56:30
+67	Jack Tenold	01:59:19
+68	Robert Brewster	02:01:39
+69	Floyd L Mccomas	02:01:54
+70	Carolyn R Bryan	02:03:21
+71	Jon C Gardner	02:05:47
+72	Richard C Howland	02:06:23
+73	Steven Moe	02:07:02
+74	Chris L Boucher	02:07:33
+75	James A Grier	02:08:04
+76	Michael P Mckenna	02:08:19
+77	Lewis E Sr Purcell	02:08:20
+78	Wilson F Mcelroy	02:11:43
+79	Bill R Jr Sleeth	02:12:59
+80	George W Davidson	02:13:33
+81	Dan Omeara	02:13:56
+82	Dean D Haagenson	02:14:49
+83	Laurie Rhodes	02:15:04
+84	Don L Franklin	02:15:43
+85	Terry L Hemingway	02:15:52
+86	Robert K Maudlin	02:18:49
+87	Dean M Duncan	02:20:02
+88	Keith D Law	02:21:57
+89	James B Parry	02:22:41
+90	Warren C Heylman	02:23:23
+91	Glen A Macphee	02:27:34
+92	David G Albertini	02:29:08
+93	Wendell L Buck	02:39:14
+94	Jack C Rogers	02:46:21
+95	John R Bowers	02:46:54
+96	Delbert E Erickson	02:52:34
+97	Gary L Sewell	02:53:22
+98	Von Klohe	02:54:24
+99	Lorinda G Travis	02:59:13
