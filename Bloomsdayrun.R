@@ -172,8 +172,8 @@ ggplot(overallresults,aes(x=Category,y=Year))+geom_blank()+geom_rect(aes(xmin = 
   ymin = -Inf, ymax = Inf, fill = Category),alpha=0.4)+
   geom_text(data=overallresults,aes(x=Category,y=Year,label=Value),size=4,fontface="bold")+
   scale_y_continuous(breaks=overallresults$Year)+ 
-  theme(axis.text.x = element_text(color="black",vjust=.5,size=12))+ 
-  theme(axis.text.y = element_text(color="black",size=10))+ 
+  theme(axis.text.x = element_text(color="black",vjust=.5))+ 
+  theme(axis.text.y = element_text(color="black"))+ 
   ggtitle("Winners in All Categories across All Years") + 
   labs(y="",x="") + theme(legend.position="none")+
   theme(panel.grid.major = element_line(colour = 'black'))
